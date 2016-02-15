@@ -109,6 +109,6 @@
         });
     // included directly via <script> tag
     } else {
-        root.async = radical;
+        window.radical = radical;
     }
 })();
