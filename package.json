@@ -1,0 +1,11 @@
+{
+  "name": "radical",
+  "version": "1.0.0",
+  "description": "An HTML5 canvas demo. It draws free floating paricles. It is based on http://codepen.io/antoniskamamis/pen/ECrKd",
+  "main": "radical.js",
+  "author": "Daniel W. Chen <daniel.chen@inventivewheel.com> (http://www.inventivewheel.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "requirejs": "^2.1.22"
+  }
+}
